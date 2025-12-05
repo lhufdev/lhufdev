@@ -1,6 +1,6 @@
 ## Hi I'm Louis 👋
 
-I'm a dev currently working at Sky.
+I'm a dev currently working at Sky UK.
 This GitHub account is my dedicated space for personal projects, learning and experimentation - a fresh workspace seperate from my enterprise work.
 
 Here you'll find:
