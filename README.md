@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Louis 👋
 
-<!--
-**lhufdev/lhufdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dev currently working at Sky.
+This GitHub account is my dedicated space for personal projects, learning and experimentation - a fresh workspace seperate from my enterprise work.
 
-Here are some ideas to get you started:
+Here you'll find:
+- Small projects and exercises from my ongoing learning.
+- Experiments and practice repos.
+- A growing set of more polished standalone projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My aim is to keep a continuous record while deepening my understanding of software engineering.
+
+Thanks for stopping by!
